@@ -1,0 +1,4 @@
+echo "----------------execute cmake-----"
+cmake -DGeant4_DIR=/Users/asimon/geant4/geant4.9.6.p03-install/lib64/Geant4-9.6.3 /Users/asimon/geant4/geant4_workdir/STARLITER
+echo "----------------make--------------"
+make
